@@ -14,11 +14,11 @@ cmake-build-*/
 *.obj
 *.o
 
-# CMake generated
+# CMake
+CMakeLists.txt
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
-Makefile
 install_manifest.txt
 CTestTestfile.cmake
 
@@ -27,10 +27,9 @@ build.ninja
 .ninja_deps
 .ninja_log
 
-# Textures
- *.jpg
- *.png
-
+# Tekstury
+*.jpg
+*.png
 
 # System
 .DS_Store
